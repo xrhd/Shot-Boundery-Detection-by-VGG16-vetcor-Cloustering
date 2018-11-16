@@ -2,7 +2,7 @@
 
 Here we gona detect some Scenes from random video and choose an frame to represent it's content.
 
-![from you tube](youtube_BrooklynNineNine.jpg)
+![from you tube](data_generator/youtube_BrooklynNineNine.jpg)
 
 [ Sample video here!](https://youtu.be/ffyKY3Dj5ZE) 
 
@@ -17,6 +17,8 @@ Here we gona detect some Scenes from random video and choose an frame to represe
 ## 3. Cluster frames by feeature arrays into scene classes...
 
 * Kmeans
+    or
+* DBSCAN
 
 ## 4. Find the most frequently shown scene class...
 
