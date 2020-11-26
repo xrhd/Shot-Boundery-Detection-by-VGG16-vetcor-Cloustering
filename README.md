@@ -1,6 +1,6 @@
-# Shot Boundery Detection by VGG16 vetcor Cloustering
+# Shot Boundery Detection by VGG16 vector Clustering
 
-Here we gona detect some Scenes from random video and choose an frame to represent it's content.
+Here we gona detect some Scenes from random video and choose a frame to represent it's content.
 
 ![from you tube](data_generator/youtube_BrooklynNineNine.jpg)
 
@@ -10,11 +10,11 @@ Here we gona detect some Scenes from random video and choose an frame to represe
 
 * OpenCV
 
-## 2. Extract fieatures from frames...
+## 2. Extract features from frames...
 
 * VGG16
 
-## 3. Cluster frames by feeature arrays into scene classes...
+## 3. Cluster frames by feature arrays into scene classes...
 
 * Kmeans
     or
